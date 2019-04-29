@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Honey cake",
+    "picture": "pictures/cakes_main.jpg",
+    "description": "The best cake ever",
+    "ingredients": "flour, eggs, honey",
+    "diameter": "9 in",
+    "price": 25
+  },
+  {
+    "name": "Tres leches",
+    "picture": "pictures/cakes_main.jpg",
+    "description": "The most populat cake",
+    "ingredients": "flour, eggs, condensed milk",
+    "diameter": "9 in",
+    "price": 25
+  },
+  {
+    "name": "Apple cake",
+    "picture": "pictures/cakes_main.jpg",
+    "description": "The very cozy cake",
+    "ingredients": "flour, eggs, apples",
+    "diameter": "9 in",
+    "price": 25
+  }
+]
