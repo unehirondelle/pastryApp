@@ -42,7 +42,7 @@ pastryApp.config(function ($routeProvider) {
 });*/
 
 pastryApp.controller('PastryListCtrl', function ($scope, $http) {
-    $http.get('desserts.json').success(function (data) {
+    $http.get('js/desserts.json').then(function (data) {
         $scope.desserts = data;
     });
 });
