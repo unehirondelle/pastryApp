@@ -1,6 +1,7 @@
 [
   {
     "name": "Honey cake",
+    "category": "Cakes",
     "picture": "pictures/cakes_main.jpg",
     "description": "The best cake ever",
     "ingredients": "flour, eggs, honey",
@@ -9,6 +10,7 @@
   },
   {
     "name": "Tres leches",
+    "category": "Cakes",
     "picture": "pictures/cakes_main.jpg",
     "description": "The most populat cake",
     "ingredients": "flour, eggs, condensed milk",
@@ -17,6 +19,7 @@
   },
   {
     "name": "Apple cake",
+    "category": "Cakes",
     "picture": "pictures/cakes_main.jpg",
     "description": "The very cozy cake",
     "ingredients": "flour, eggs, apples",
